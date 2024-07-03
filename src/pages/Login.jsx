@@ -28,7 +28,7 @@ export const Login = ({ className, buttonText = 'Login' }) => {
     >
       <div className={`login-form ${className}`} style={styles.form}>
         <Title level={2} className="login-title" style={styles.title}>
-          ArquiUDP
+          Data Science
         </Title>
         <Form
           name="login"
